@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.investigation.v1",
+    "identity": "100048777766367/investigation",
+    "archetype": "TRUTH_ORACLE",
+    "role": "COMPATIBILITY_INVESTIGATOR",
+    "network_partners": {
+        "choice": "100048777766367/choice",
+        "medicine": "100048777766367/medicine"
+    },
+    "io_specification": "I/O (COMPATIBILITY_INVESTIGATOR)"
+}
